@@ -23,6 +23,7 @@
 -
 * Linux: gcc 4.7
 * Windows: vs2015
+* 加入Android 编译
 
 整体框架
 -
